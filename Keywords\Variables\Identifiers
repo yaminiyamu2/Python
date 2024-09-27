@@ -33,11 +33,45 @@ Identifiers are the name given to variables, classes, methods, etc.....
         class Calculator:
             def add(self, a, b):
                 return a + b
+Rules:
+1.Start with a Letter or Underscore
+2.Followed by Letters, Digits, or Underscores
+3.Avoid Starting with a Digit
+4.No Special Characters(!, @, $, etc.)
+5.Case-Sensitive (e.g: age, Age, and AGE)
+5.Avoid Using Keywords
 
+Variables:
+-----------
+    In programming, a variable is a container (storage area) to hold data.
+ EX: int x = 22
+     string my_str = "hi"
+     float y = 2.275
+Difference between Variable and Identifiers:
+---------------------------------------------
+        Identifiers are names given to entities like variables, functions, etc., while variables are a specific type of 
+identifier used to store and manipulate data in a program.
 
+Constants:
+----------
+    A constant is a special type of variable whose value cannot be changed.
+ex: # import constant file we created above
+    import costant
+    print(constant.PI) #prints 3.14 3.14
+    print(constant.GRAVITY) #Prints 9.8
 
-
-
+Literals:
+---------
+    Literals are representations of fixed values in a program. They can be numbers, characters, or strings, etc.
+Types of Literals:
+1. Numeric Literals
+2. String Literals
+3. Boolean Literals
+4. None Literal
+5. Bytes and Bytearray Literals
+6. Raw String Literals
+7. Numeric Separator
+8. Collection Literals: List, Tuple, Set, Dictionary
 
 
 
