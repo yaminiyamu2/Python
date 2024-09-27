@@ -1,0 +1,50 @@
+What is Python?
+----------------
+    Python is a high-level,interpreter programmming language known for it readabile and simplsity.It is created was Gudio Van Rossan,first relesed in 1991.
+Python supports multiple programming like paradism,including procedual,object-oriented and funtinal programming,making it versile for various applications.
+Key features of Python include:
+1.Readability:It clear syntax emphasizes redability,Which help developers to write clean and maintanable code.
+2.Rich Libraries: Python has a vast standard library and numerous third-party packages for tasks ranging from web development to data analysis and machine learning.
+3.Cross-Platform: Python runs on various operating systems, including Windows, macOS, and Linux.
+4.Community Support: A large and active community contributes to extensive documentation and resources, making it easier for beginners to learn and troubleshoot.
+      Python is widely used in web development, data science, artificial intelligence, automation, and more,
+making it a popular choice among developers.
+It is used for:
+1.web development (server-side),
+2.software development,
+3.mathematics,
+4.system scripting.
+
+ What is programming
+ --------------------
+ Programming is a way to instruct computer to perform various tasks.
+
+ Note:Python uses .py extension
+
+
+What can Python do?
+--------------------
+1.Python can be used on a server to create web applications.
+2.Python can be used alongside software to create workflows.
+3.Python can connect to database systems. It can also read and modify files.
+4.Python can be used to handle big data and perform complex mathematics.
+5.Python can be used for rapid prototyping, or for production-ready software development.
+
+What python?
+------------
+1.Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+2.Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+3.Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
+
+ Who will convert from High level(Human language) to low level (Machine language)?
+ ---------------------------------------------------------------------------------
+1. Compiler
+2. Interpreted
+3. Assemble
+4. Translator
+ compiler: It converts the high level language to machine code in one session (Whole code) Ex:- C, C++, Java etc
+ Interpreted:It convert the high level language to machine code line by lineEx:- Python,Perl,Matlab etc
+ Assembler: It converts assemble language to machine language.
+ Translator: Anything that converts one level language to another level language is known as translator.
+
+
