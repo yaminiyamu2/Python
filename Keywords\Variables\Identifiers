@@ -1,0 +1,44 @@
+Keywords:
+----------
+    Keywords are predefined, reserved words used in Python programming.We cannot use a keyword as a variable name, function name,
+or any other identifier.
+List of Keywords:
+None              await            class              while            if
+break             else             finally            async            del
+except            import           is                 elif             or
+in                pass             return             yield            lambda
+raise             and              as                 global           True
+False             continue         def                assert           nonlocal
+for               try              from               with             not
+
+Identifiers:
+------------
+Identifiers are the name given to variables, classes, methods, etc.....
+1.Variable Identifiers:
+     ex: age = 25
+         name = "Jhon"
+         count = 0
+         total_price = 100.50
+         is_student = True
+2.Method/Function Identifiers:
+    ex: def calculate_area(length,width):
+            return length * width
+        def prient_greeting(name):
+            prient("Hello, " + name + "!")
+3.Class Identifiers:
+    ex: class Student:
+            def _ _init_ _(self ,name, age):
+                  self.name = name
+                  self.age = age
+        class Calculator:
+            def add(self, a, b):
+                return a + b
+
+
+
+
+
+
+
+
+
